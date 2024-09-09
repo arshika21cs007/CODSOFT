@@ -16,7 +16,7 @@ During my internship, I successfully completed three key tasks, which include de
   - Responsive layout for different screen sizes
   - Attractive hero section with a compelling call-to-action
   - Well-structured content and navigation
-- **Technologies Used:** HTML, CSS, JavaScript (optional frameworks or libraries if used).
+- **Technologies Used:** HTML, CSS, JavaScript.
 
 ### 2. Calculator
 
